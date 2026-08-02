@@ -47,7 +47,13 @@ The objective of this project is to analyze sales performance, customer behaviou
 
 ## Dashboard Preview
 
-*A dashboard screenshot is included in this repository.*
+### Dashboard Overview
+
+![Dashboard Overview](Dashboard_Overview.png)
+
+### Customer Insights
+
+![Dashboard Analysis](Dashboard_Analysis.png)
 
 ## Key Business Insights
 
